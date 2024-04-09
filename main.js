@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer";
 let current_balance = 1000;
 const pin_code = 8523;

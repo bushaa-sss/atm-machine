@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 //cli atm machine
 import inquirer from "inquirer";
 
